@@ -18,3 +18,7 @@ function TypeChanger(type_to_be, content) {
     return result;
   }
 }
+
+function invert (variable){
+return !variable
+}
